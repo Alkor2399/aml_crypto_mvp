@@ -1,0 +1,6 @@
+fastapi==0.109.1
+uvicorn==0.18.3
+requests==2.31.0
+pandas==1.4.3
+pydantic==1.9.1
+SQLAlchemy==1.4.39
